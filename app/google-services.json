@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "995494270578",
+    "firebase_url": "https://pendaki-39788.firebaseio.com",
+    "project_id": "pendaki-39788",
+    "storage_bucket": "pendaki-39788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995494270578:android:d623e6cb1a03f5747914eb",
+        "android_client_info": {
+          "package_name": "com.example.pendaki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995494270578-fc48p62gpo9fnfirdoibm67ap08dcj9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pendaki",
+            "certificate_hash": "3eb07713a1cc5c5cf1ccba908d329cd6e49155b1"
+          }
+        },
+        {
+          "client_id": "995494270578-giov9uu6obmdbrh8r2pjr2lpj4par19b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsclMazpqV8XsswOXDWOS7ykgfMv-ZUck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995494270578-giov9uu6obmdbrh8r2pjr2lpj4par19b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
